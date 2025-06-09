@@ -1,9 +1,9 @@
 # Loan-Approval-Prediction
 
 Loan Approval Prediction is a data-driven project that aims to predict whether a loan application will be approved or rejected based on various factors like applicant income, credit history, employment status, and other financial metrics.
-Project Overview
+# Project Overview
 The goal is to build a machine learning model that can accurately classify loan applications into "approved" or "rejected" categories. This helps financial institutions make faster, data-backed decisions while reducing the risk of approving loans for applicants who might default.
-Key Steps Involved
+# Key Steps Involved
 - Data Collection & Preprocessing
 - Gather historical loan application data.
 - Clean the data by handling missing values and outliers.
